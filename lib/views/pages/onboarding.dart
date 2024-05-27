@@ -98,7 +98,7 @@ class _OnboardingState extends State<Onboarding> {
                   }
                   setState(() {});
                 },
-                child: Text('Go to next page'),
+                child: Text('Enter'),
               ),
             ],
           ),

@@ -137,7 +137,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 onPressed: () {
                   if (_textEditingController.text.isEmpty) {
                     widget.onBackgroundChanged(
-                        'https://img.freepik.com/free-vector/blur-pink-blue-abstract-gradient-background-vector_53876-174836.jpg');
+                        'https://cdn.pixabay.com/photo/2020/08/08/13/34/abstract-5473052_960_720.jpg');
                   } else {
                     widget.onBackgroundChanged(_textEditingController.text);
                   }
